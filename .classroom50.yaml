@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "test-classroom"
+assignment: "test-assignment"
+owner:
+  username: "jwnicoll"
+  id: 62045644
+  accepted_at: "2026-09-10T18:07:50Z"
